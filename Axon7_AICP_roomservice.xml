@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AICP/device_lge_h811" path="device/lge/h811" remote="aicp" revision="n7.1" />
+  <project name="LineageOS/android_device_lge_g4-common" path="device/lge/g4-common" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="aicp" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="aicp" revision="cm-14.1" />
+  <project name="AICP/device_lge_h815" path="device/lge/h815" remote="aicp" revision="n7.1" />
+  <project name="AICP/device_samsung_gts210vewifi" path="device/samsung/gts210vewifi" remote="aicp" revision="n7.1" />
+  <project name="LineageOS/android_device_samsung_msm8976-common" path="device/samsung/msm8976-common" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_msm8976" path="kernel/samsung/msm8976" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="aicp" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="aicp" revision="cm-14.1" />
+  <project name="AICP/device_zte_axon7" path="device/zte/axon7" remote="aicp" revision="n7.1" />
+  <project name="LineageOS/android_kernel_zte_msm8996" path="kernel/zte/msm8996" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="aicp" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_zte" path="vendor/zte" remote="aicp" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_device_xiaomi_lithium" path="device/xiaomi/lithium" remote="aicp" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="aicp" revision="cm-14.1" />
+  <project name="AICP/device_oneplus_cheeseburger" path="device/oneplus/cheeseburger" remote="github" revision="n7.1" />
+  <project name="AICP/kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="github" revision="n7.1" />
+  <project name="AICP/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="n7.1" />
+  <project name="AICP/device_oppo_common" path="device/oppo/common" remote="github" revision="n7.1" />
+</manifest>
